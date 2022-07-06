@@ -1,4 +1,4 @@
-# desafio1-dio-github-repositorio
+# Desafio de Projeto
 DIO Bootcamp Santander Code Girls - Desafio de Projeto sobre Git/GitHub
 
 ## Links Úteis
